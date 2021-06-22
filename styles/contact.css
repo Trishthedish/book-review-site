@@ -1,0 +1,9 @@
+main {
+    text-align: center;
+}
+
+img {
+    border: 2px blue solid;
+    border-radius: 100px;
+    background-color: darkcyan;
+}

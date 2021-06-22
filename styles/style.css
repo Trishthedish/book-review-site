@@ -23,3 +23,7 @@ nav li {
     list-style: none;
     display: inline;
 }
+
+footer {
+    text-align: center;
+}
