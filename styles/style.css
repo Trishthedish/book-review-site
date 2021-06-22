@@ -2,3 +2,7 @@ header, footer {
     border: 2px solid;
     background-color: lightgoldenrodyellow;
 }
+
+main {
+    background-color: lightpink;
+}
