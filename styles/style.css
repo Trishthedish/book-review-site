@@ -10,3 +10,16 @@ main {
 body {
     font-family: arial;
 }
+
+a:hover {
+    background-color: blanchedalmond;
+}
+
+a:active {
+    color: yellow;
+}
+
+nav li {
+    list-style: none;
+    display: inline;
+}

@@ -1,0 +1,12 @@
+.review {
+    background-color: gray;
+}
+
+.review p {
+    line-height: 150%;
+}
+
+.review .review-details {
+    background-color: white;
+    line-height: 1;
+}
